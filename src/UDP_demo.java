@@ -37,7 +37,6 @@ public class UDP_demo {
             }catch (Exception e){
                 e.printStackTrace();
             }
-
         }
     }
 }
